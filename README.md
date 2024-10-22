@@ -9,10 +9,6 @@
 
 ### 🕵 Take a look at my repositories and let's get in touch!<br>
 
-[![Linkedin Badge](https://img.shields.io/badge/-Francis-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/francis-okonkwo-51a388232)
-[![Twitter Badge](https://img.shields.io/badge/-@francies-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/nworiekingslee)](https://twitter.com/fran__cies?s=21&t=Lu1czGLkK7dbsyc1SpRNBQ)
-[![Facebook Badge](https://img.shields.io/badge/-Francies-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=facebook&logoColor=white&link=https://twitter.com/nworiekingslee)](https://www.facebook.com/profile.php?id=100086312094204&mibextid=D4KYlr)
-
 <br>
 
 ### Languages:
