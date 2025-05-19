@@ -1,5 +1,5 @@
 
-# Hi, I am Francis <Bluebberies> <img src="https://raw.githubusercontent.com/debdutgoswami/debdutgoswami/master/assets/gifs/Hi.gif" width="5%">
+# Hi, I am Bluebberies <Bluebberies> <img src="https://raw.githubusercontent.com/debdutgoswami/debdutgoswami/master/assets/gifs/Hi.gif" width="5%">
 <br>
 
 ### I am a Software engineer with equal love for collaborating. I like to describe myself as an adventurer, eager to learn something new at all times. I build interactive web experiences and create good, solid and secure backend services using modern technologies and enjoy sharing what I know.<br>
