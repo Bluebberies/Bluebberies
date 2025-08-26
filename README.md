@@ -4,7 +4,7 @@
 
 ### I am a Software engineer with equal love for collaborating. I like to describe myself as an adventurer, eager to learn something new at all times. I build interactive web experiences and create good, solid and secure backend services using modern technologies and enjoy sharing what I know.<br>
 
-- 👨‍🏭 I’m currently **Computer Science** degree holder from Nnamdi Azikiwe University, Awka. <br>
+- 👨‍🏭 I’m currently a **Computer Science** degree holder from Nnamdi Azikiwe University, Awka. <br>
 - 🙌 I’m looking to collaborate on **more open source projects** <br>
 
 ### 🕵 Take a look at my repositories and let's get in touch!<br>
